@@ -50,10 +50,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/PranayjitMahata/PranayjitMahata/output/snake.svg" alt="snake animation" />
-
-###
-
 <img align="right" src="https://profile-counter.glitch.me/PranayjitMahata/count.svg?"  />
 
 ###
