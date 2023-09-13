@@ -1,4 +1,4 @@
-<h2 align="left">Hey ! Pranay this side <(＿　＿)></h2>
+<h2 align="left">Hey ! Pranay this side •‿•♡</h2>
 
 ###
 
