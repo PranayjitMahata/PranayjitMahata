@@ -50,7 +50,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/PranayjitMahata/PranayjitMahata/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/PranayjitMahata/PranayjitMahata/output/snake.svg" alt="snake animation" />
 
 ###
 
